@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/ornekpaket/__init__.py
+src/ornekpaket/example.py
+src/ornekpaket.egg-info/PKG-INFO
+src/ornekpaket.egg-info/SOURCES.txt
+src/ornekpaket.egg-info/dependency_links.txt
+src/ornekpaket.egg-info/top_level.txt
